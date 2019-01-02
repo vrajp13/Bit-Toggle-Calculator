@@ -4,6 +4,8 @@ package cs1302.calc;
  * Provides a basic implementation of the operations defined in the <code>MathOps</code>
  * interface. This implementation assumes that the inputs to each method are
  * non-negative integers.
+ * 
+ * @author Michael E. Cotterell
  */
 public class BasicMathOps implements MathOps {
 

@@ -2,6 +2,8 @@ package cs1302.calc;
 
 /** 
  * Provides an interface for different mathematical operations
+ * 
+ * @author Michael E. Cotterell
  */
 public interface MathOps {
 

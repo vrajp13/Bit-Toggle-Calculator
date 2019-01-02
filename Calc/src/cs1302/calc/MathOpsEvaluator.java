@@ -11,6 +11,8 @@ import java.util.Stack;
  * Contains static methods for working with implementations of the
  * <code>MathOps</code> interface. It also contains methods for
  * working reverse polish notation.
+ * 
+ * @author Michael E. Cotterell
  */
 public class MathOpsEvaluator {
 
